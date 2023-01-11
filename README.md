@@ -1,1 +1,1 @@
-# TensorRTC-SegmentationDemo
+# TensorRTSegmentationDemo
